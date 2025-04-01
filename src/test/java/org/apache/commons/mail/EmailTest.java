@@ -5,7 +5,7 @@ import org.junit.Test;
 import java.util.Map;
 
 // This EmailTest class tests the following: addBcc, addCc, addHeader, addReplyto
-// Test to trigger CI
+// Testing to trigger CI
 public class EmailTest {
 
     private EmailConcrete email;
