@@ -13,6 +13,7 @@ import javax.mail.Address;
 
 
 // This EmailTest2 class tests the following: buildMimeMessage, getHostName and getMailSession.
+// test
 public class EmailTest2 {
 
     private EmailConcrete email; // Email instance for testing.
